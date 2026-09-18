@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Region,Category,Product,Month,Quantity,Unit_Price,Discount_%,Sales,Profit,Customer_Type,Payment_Mode
+ORD1001,2026-01-01,South,Furniture,Webcam,January,13,38947,20,506311,65500.89,Corporate,UPI
+ORD1002,2026-01-02,East,Furniture,Pen Set,May,8,37175,15,297400,41472.98,Corporate,Card
+ORD1003,2026-01-03,East,Electronics,Office Chair,August,12,6822,0,81864,13700.24,Individual,Cash
+ORD1004,2026-01-04,North,Accessories,Webcam,November,11,2049,20,22539,2411.95,Small Business,Cash
+ORD1005,2026-01-05,South,Accessories,Office Chair,November,6,39718,0,238308,48932.44,Individual,Net Banking
+ORD1006,2026-01-06,South,Office Supplies,Printer,September,2,23551,15,47102,10730.66,Small Business,UPI
+ORD1007,2026-01-07,South,Office Supplies,Keyboard,December,5,33137,0,165685,11504.58,Individual,Card
+ORD1008,2026-01-08,North,Electronics,Monitor,October,1,38181,0,38181,6877.32,Corporate,Cash
+ORD1009,2026-01-09,North,Accessories,Printer,December,12,38061,0,456732,70930.55,Corporate,Net Banking
+ORD1010,2026-01-10,West,Electronics,Laptop,August,6,46837,5,281022,24703.22,Corporate,UPI
+ORD1011,2026-01-11,West,Electronics,Smartphone,June,1,9882,20,9882,1520.59,Small Business,Net Banking
+ORD1012,2026-01-12,South,Furniture,Smartphone,December,4,18819,5,75276,5204.23,Small Business,UPI
+ORD1013,2026-01-13,North,Electronics,Headphones,May,9,10152,20,91368,6032.26,Small Business,Card
+ORD1014,2026-01-14,North,Accessories,Printer,May,12,18820,20,225840,22315.08,Individual,Net Banking
+ORD1015,2026-01-15,East,Electronics,Printer,July,9,872,0,7848,2196.97,Corporate,Cash
+ORD1016,2026-01-16,East,Electronics,Notebook,December,1,43263,20,43263,9598.32,Small Business,Cash
+ORD1017,2026-01-17,South,Furniture,Pen Set,July,4,25326,0,101304,11630.68,Corporate,Card
+ORD1018,2026-01-18,West,Office Supplies,Webcam,July,15,44709,15,670635,138917.02,Individual,UPI
+ORD1019,2026-01-19,North,Office Supplies,Notebook,May,3,37780,5,113340,28102.26,Individual,Net Banking
+ORD1020,2026-01-20,South,Office Supplies,Monitor,July,3,22521,15,67563,11946.54,Small Business,Net Banking
+ORD1021,2026-01-21,West,Electronics,Tablet,November,13,22401,5,291213,72794.54,Individual,Net Banking
+ORD1022,2026-01-22,North,Electronics,Office Chair,April,2,41505,10,83010,12079.03,Individual,UPI
+ORD1023,2026-01-23,West,Office Supplies,Tablet,June,8,43971,10,351768,28117.79,Small Business,Net Banking
+ORD1024,2026-01-24,West,Office Supplies,Printer,August,11,25058,10,275638,45311.91,Small Business,Card
+ORD1025,2026-01-25,North,Furniture,Desk,April,9,33638,10,302742,23455.38,Individual,UPI
+ORD1026,2026-01-26,South,Accessories,Monitor,September,11,26928,15,296208,9012.96,Individual,Card
+ORD1027,2026-01-27,North,Furniture,Laptop,December,7,39499,5,276493,39427.01,Individual,Card
+ORD1028,2026-01-28,East,Furniture,Monitor,August,4,24754,10,99016,3787.16,Corporate,Net Banking
+ORD1029,2026-01-29,South,Accessories,Notebook,April,10,31103,15,311030,41261.53,Corporate,UPI
+ORD1030,2026-01-30,North,Office Supplies,Notebook,May,5,6426,5,32130,7613.2,Individual,Cash
+ORD1031,2026-01-31,West,Electronics,Notebook,November,5,15827,10,79135,6700.91,Corporate,Card
+ORD1032,2026-02-01,North,Accessories,Headphones,October,9,46523,0,418707,50202.37,Individual,Card
+ORD1033,2026-02-02,North,Office Supplies,Pen Set,October,9,22099,0,198891,55582.57,Small Business,Net Banking
+ORD1034,2026-02-03,South,Furniture,Pen Set,May,11,28757,10,316327,74440.19,Small Business,Card
+ORD1035,2026-02-04,East,Electronics,Laptop,May,14,19635,5,274890,52007.24,Small Business,Cash
+ORD1036,2026-02-05,South,Accessories,Monitor,January,3,38267,15,114801,16061.52,Small Business,Net Banking
+ORD1037,2026-02-06,North,Furniture,Laptop,March,13,7115,10,92495,19065.13,Corporate,UPI
+ORD1038,2026-02-07,West,Office Supplies,Webcam,February,7,3494,10,24458,4417.04,Small Business,Card
+ORD1039,2026-02-08,West,Accessories,Tablet,June,4,18838,0,75352,8077.38,Individual,Cash
+ORD1040,2026-02-09,South,Accessories,Pen Set,March,10,31227,10,312270,50470.89,Individual,Net Banking
+ORD1041,2026-02-10,North,Electronics,Printer,February,7,47550,0,332850,74756.32,Corporate,UPI
+ORD1042,2026-02-11,South,Office Supplies,Office Chair,May,9,17188,15,154692,21756.46,Corporate,Net Banking
+ORD1043,2026-02-12,West,Furniture,Smartphone,February,15,30274,20,454110,20082.11,Corporate,Cash
+ORD1044,2026-02-13,South,Office Supplies,Printer,April,9,2467,5,22203,2121.47,Individual,Net Banking
+ORD1045,2026-02-14,East,Furniture,Desk,April,12,10991,15,131892,6378.19,Small Business,UPI
+ORD1046,2026-02-15,East,Accessories,Headphones,April,8,16912,10,135296,9425.98,Small Business,Card
+ORD1047,2026-02-16,South,Office Supplies,Desk,October,8,16271,10,130168,29095.8,Corporate,Card
+ORD1048,2026-02-17,North,Electronics,Monitor,June,14,7897,0,110558,10078.22,Individual,Cash
+ORD1049,2026-02-18,South,Electronics,Notebook,February,1,20739,10,20739,2860.62,Individual,Cash
+ORD1050,2026-02-19,North,Office Supplies,Pen Set,November,3,41938,5,125814,15203.48,Individual,UPI
+ORD1051,2026-02-20,West,Electronics,Laptop,May,10,22191,20,221910,39077.79,Small Business,UPI
+ORD1052,2026-02-21,West,Office Supplies,Tablet,December,6,38967,5,233802,11258.05,Individual,Net Banking
+ORD1053,2026-02-22,North,Office Supplies,Monitor,September,12,29766,5,357192,40435.66,Small Business,Net Banking
+ORD1054,2026-02-23,South,Electronics,Desk,November,3,26208,0,78624,8033.6,Small Business,Cash
+ORD1055,2026-02-24,South,Electronics,Office Chair,October,15,1146,20,17190,395.8,Small Business,Card
+ORD1056,2026-02-25,South,Furniture,Desk,April,3,20490,0,61470,11228.56,Corporate,Net Banking
+ORD1057,2026-02-26,North,Office Supplies,Keyboard,August,1,351,5,351,85.17,Corporate,UPI
+ORD1058,2026-02-27,South,Electronics,Notebook,August,5,48378,15,241890,54639.37,Small Business,Net Banking
+ORD1059,2026-02-28,West,Furniture,Webcam,January,7,24106,10,168742,11194.94,Corporate,Cash
+ORD1060,2026-03-01,East,Electronics,Keyboard,January,2,26571,0,53142,6143.13,Individual,UPI
+ORD1061,2026-03-02,West,Electronics,Smartphone,March,1,38469,15,38469,6591.81,Corporate,Card
+ORD1062,2026-03-03,North,Accessories,Monitor,January,8,18882,0,151056,23011.3,Corporate,Cash
+ORD1063,2026-03-04,West,Electronics,Monitor,September,14,8132,0,113848,8228.61,Individual,Net Banking
+ORD1064,2026-03-05,West,Electronics,Smartphone,August,2,37099,20,74198,6138.73,Small Business,Net Banking
+ORD1065,2026-03-06,West,Accessories,Webcam,July,7,14489,0,101423,7857.87,Corporate,Card
+ORD1066,2026-03-07,South,Furniture,Laptop,August,12,25872,5,310464,76773.24,Small Business,Cash
+ORD1067,2026-03-08,East,Accessories,Webcam,December,5,35883,10,179415,38989.72,Individual,Card
+ORD1068,2026-03-09,North,Office Supplies,Laptop,September,8,26120,20,208960,24388.29,Individual,UPI
+ORD1069,2026-03-10,South,Office Supplies,Printer,September,8,43158,0,345264,29080.79,Small Business,UPI
+ORD1070,2026-03-11,South,Furniture,Printer,April,4,42479,10,169916,10844.25,Individual,Net Banking
+ORD1071,2026-03-12,East,Electronics,Tablet,June,14,23868,10,334152,24632.73,Corporate,Net Banking
+ORD1072,2026-03-13,East,Electronics,Notebook,March,8,37154,15,297232,54928.19,Corporate,Card
+ORD1073,2026-03-14,North,Furniture,Pen Set,January,6,17582,0,105492,9200.09,Small Business,Card
+ORD1074,2026-03-15,West,Furniture,Notebook,May,13,14683,0,190879,18116.81,Small Business,Net Banking
+ORD1075,2026-03-16,West,Electronics,Smartphone,June,11,9886,0,108746,22883.53,Corporate,UPI
+ORD1076,2026-03-17,West,Office Supplies,Desk,December,4,2909,10,11636,1142.68,Corporate,Card
+ORD1077,2026-03-18,South,Accessories,Headphones,February,2,49958,20,99916,18316.44,Corporate,Net Banking
+ORD1078,2026-03-19,North,Accessories,Headphones,May,14,41639,0,582946,97839.51,Corporate,Cash
+ORD1079,2026-03-20,West,Furniture,Tablet,October,10,44500,0,445000,37004.85,Corporate,Cash
+ORD1080,2026-03-21,East,Electronics,Monitor,March,6,16279,5,97674,21691.84,Corporate,Card
+ORD1081,2026-03-22,West,Office Supplies,Desk,June,5,38956,10,194780,25872.45,Small Business,Net Banking
+ORD1082,2026-03-23,North,Office Supplies,Webcam,November,6,27726,15,166356,16388.62,Small Business,Net Banking
+ORD1083,2026-03-24,West,Furniture,Notebook,January,13,15839,0,205907,26137.2,Small Business,Cash
+ORD1084,2026-03-25,East,Accessories,Printer,January,8,22092,15,176736,12817.69,Individual,Card
+ORD1085,2026-03-26,North,Electronics,Keyboard,December,12,15307,15,183684,8378.69,Corporate,UPI
+ORD1086,2026-03-27,South,Accessories,Pen Set,June,4,19104,0,76416,18348.31,Individual,UPI
+ORD1087,2026-03-28,North,Electronics,Office Chair,May,3,4527,15,13581,1313.25,Small Business,UPI
+ORD1088,2026-03-29,North,Accessories,Office Chair,June,6,44564,0,267384,30462.64,Small Business,Net Banking
+ORD1089,2026-03-30,North,Furniture,Pen Set,October,15,35932,20,538980,30780.24,Individual,Card
+ORD1090,2026-03-31,South,Electronics,Notebook,August,1,6136,15,6136,194.27,Small Business,Net Banking
+ORD1091,2026-04-01,East,Accessories,Laptop,May,4,36542,20,146168,10476.57,Individual,Net Banking
+ORD1092,2026-04-02,West,Furniture,Keyboard,June,15,28720,5,430800,87406.46,Corporate,UPI
+ORD1093,2026-04-03,North,Accessories,Monitor,January,6,30922,10,185532,7115.93,Small Business,Net Banking
+ORD1094,2026-04-04,East,Accessories,Smartphone,May,2,23909,15,47818,7918.57,Individual,Card
+ORD1095,2026-04-05,West,Furniture,Desk,November,14,45053,10,630742,74108.21,Individual,UPI
+ORD1096,2026-04-06,South,Electronics,Headphones,August,7,47536,5,332752,26490.67,Small Business,Cash
+ORD1097,2026-04-07,East,Furniture,Tablet,June,7,31689,10,221823,13773.27,Individual,UPI
+ORD1098,2026-04-08,North,Office Supplies,Monitor,February,8,15974,0,127792,11813.34,Small Business,Net Banking
+ORD1099,2026-04-09,East,Furniture,Office Chair,February,15,19567,10,293505,46706.31,Individual,Cash
+ORD1100,2026-04-10,North,Furniture,Desk,February,5,11367,10,56835,10557.93,Individual,Card
+ORD1101,2026-04-11,West,Accessories,Smartphone,November,7,49124,10,343868,62447.25,Small Business,UPI
+ORD1102,2026-04-12,West,Electronics,Pen Set,December,2,888,10,1776,447.3,Corporate,Net Banking
+ORD1103,2026-04-13,North,Accessories,Tablet,January,11,37083,10,407913,25921.26,Small Business,UPI
+ORD1104,2026-04-14,North,Accessories,Headphones,December,8,4975,5,39800,2419.28,Corporate,Card
+ORD1105,2026-04-15,North,Office Supplies,Webcam,April,13,38737,15,503581,84299.46,Corporate,UPI
+ORD1106,2026-04-16,West,Furniture,Office Chair,December,5,28400,10,142000,15165.04,Corporate,Cash
+ORD1107,2026-04-17,West,Accessories,Smartphone,July,13,31636,10,411268,39519.47,Small Business,Card
+ORD1108,2026-04-18,East,Electronics,Tablet,November,3,2360,15,7080,1390.5,Corporate,Card
+ORD1109,2026-04-19,South,Furniture,Notebook,September,9,16859,20,151731,3217.29,Small Business,Card
+ORD1110,2026-04-20,South,Furniture,Printer,May,7,12920,20,90440,3068.96,Small Business,Cash
+ORD1111,2026-04-21,West,Accessories,Printer,September,13,25222,0,327886,86056.2,Small Business,Cash
+ORD1112,2026-04-22,South,Accessories,Desk,January,8,9987,5,79896,7441.94,Small Business,Card
+ORD1113,2026-04-23,East,Electronics,Desk,March,12,7526,20,90312,20387.89,Individual,Net Banking
+ORD1114,2026-04-24,West,Office Supplies,Headphones,July,11,738,0,8118,1248.54,Corporate,UPI
+ORD1115,2026-04-25,North,Accessories,Printer,November,13,42597,10,553761,36103.29,Small Business,Card
+ORD1116,2026-04-26,South,Furniture,Printer,September,14,39961,0,559454,38919.96,Corporate,Card
+ORD1117,2026-04-27,West,Furniture,Laptop,August,8,6755,15,54040,5324.79,Individual,Cash
+ORD1118,2026-04-28,North,Office Supplies,Smartphone,May,15,8466,5,126990,29634.33,Corporate,UPI
+ORD1119,2026-04-29,West,Accessories,Smartphone,April,8,37579,0,300632,52045.55,Small Business,UPI
+ORD1120,2026-04-30,South,Furniture,Keyboard,January,10,49006,10,490060,61924.0,Individual,Net Banking
+ORD1121,2026-05-01,South,Office Supplies,Desk,June,8,9376,0,75008,13003.5,Individual,UPI
+ORD1122,2026-05-02,South,Accessories,Monitor,February,8,15582,10,124656,25126.52,Corporate,Net Banking
+ORD1123,2026-05-03,West,Office Supplies,Laptop,May,1,8794,15,8794,206.34,Individual,Card
+ORD1124,2026-05-04,South,Accessories,Webcam,December,13,8865,15,115245,21701.19,Small Business,UPI
+ORD1125,2026-05-05,South,Furniture,Monitor,August,7,21136,0,147952,20575.72,Small Business,Cash
+ORD1126,2026-05-06,East,Accessories,Monitor,September,4,49554,10,198216,40081.18,Small Business,Net Banking
+ORD1127,2026-05-07,South,Furniture,Desk,February,3,15778,10,47334,4850.04,Individual,UPI
+ORD1128,2026-05-08,East,Electronics,Pen Set,January,3,14493,5,43479,10667.49,Individual,Net Banking
+ORD1129,2026-05-09,South,Furniture,Printer,September,14,2350,20,32900,5183.97,Individual,Net Banking
+ORD1130,2026-05-10,South,Electronics,Pen Set,April,14,26911,5,376754,36308.15,Small Business,Card
+ORD1131,2026-05-11,West,Office Supplies,Desk,January,1,32382,20,32382,1689.34,Small Business,Net Banking
+ORD1132,2026-05-12,West,Electronics,Office Chair,September,14,2633,15,36862,8035.16,Individual,Cash
+ORD1133,2026-05-13,North,Office Supplies,Desk,October,8,15791,5,126328,8532.23,Individual,Card
+ORD1134,2026-05-14,West,Electronics,Desk,January,9,7336,0,66024,11586.62,Corporate,UPI
+ORD1135,2026-05-15,South,Electronics,Printer,April,4,23601,20,94404,10055.71,Individual,Card
+ORD1136,2026-05-16,East,Office Supplies,Laptop,October,4,26098,0,104392,13608.43,Small Business,Card
+ORD1137,2026-05-17,West,Furniture,Laptop,May,2,33355,10,66710,12593.27,Corporate,Card
+ORD1138,2026-05-18,North,Furniture,Smartphone,August,15,40898,15,613470,110739.68,Small Business,Net Banking
+ORD1139,2026-05-19,East,Office Supplies,Smartphone,October,7,15722,10,110054,9272.67,Individual,UPI
+ORD1140,2026-05-20,North,Accessories,Headphones,January,1,3310,20,3310,414.24,Corporate,UPI
+ORD1141,2026-05-21,East,Office Supplies,Printer,January,3,14874,0,44622,7778.17,Small Business,UPI
+ORD1142,2026-05-22,North,Furniture,Printer,June,9,8366,5,75294,4894.02,Individual,Card
+ORD1143,2026-05-23,East,Office Supplies,Monitor,August,7,32990,5,230930,60902.33,Corporate,Card
+ORD1144,2026-05-24,North,Accessories,Notebook,June,11,40265,10,442915,74557.38,Corporate,Card
+ORD1145,2026-05-25,East,Electronics,Desk,May,14,29014,10,406196,50689.24,Small Business,Card
+ORD1146,2026-05-26,East,Accessories,Pen Set,May,4,25760,10,103040,22673.59,Corporate,Net Banking
+ORD1147,2026-05-27,North,Furniture,Printer,September,8,49620,10,396960,31770.79,Small Business,Net Banking
+ORD1148,2026-05-28,North,Accessories,Webcam,January,11,22192,15,244112,9456.34,Corporate,UPI
+ORD1149,2026-05-29,North,Electronics,Headphones,June,3,3146,0,9438,668.23,Small Business,Cash
+ORD1150,2026-05-30,West,Accessories,Laptop,January,2,12785,5,25570,2367.0,Individual,Card
+ORD1151,2026-05-31,North,Electronics,Keyboard,June,10,41454,0,414540,66200.02,Corporate,Cash
+ORD1152,2026-06-01,North,Furniture,Monitor,September,4,2474,15,9896,1698.7,Small Business,Cash
+ORD1153,2026-06-02,South,Office Supplies,Office Chair,April,14,18078,15,253092,28051.35,Corporate,Card
+ORD1154,2026-06-03,East,Office Supplies,Webcam,January,9,6023,20,54207,4177.63,Small Business,Card
+ORD1155,2026-06-04,West,Electronics,Desk,April,12,4613,10,55356,8578.56,Corporate,Net Banking
+ORD1156,2026-06-05,South,Furniture,Keyboard,June,14,29881,0,418334,32385.18,Small Business,UPI
+ORD1157,2026-06-06,South,Electronics,Office Chair,January,7,22031,0,154217,11303.41,Small Business,UPI
+ORD1158,2026-06-07,North,Electronics,Smartphone,May,5,21928,10,109640,21881.31,Individual,Cash
+ORD1159,2026-06-08,West,Accessories,Desk,October,4,21074,0,84296,16031.13,Corporate,UPI
+ORD1160,2026-06-09,East,Furniture,Smartphone,July,9,9961,10,89649,17803.58,Corporate,Cash
+ORD1161,2026-06-10,South,Office Supplies,Keyboard,June,7,5209,20,36463,4165.04,Corporate,Net Banking
+ORD1162,2026-06-11,South,Office Supplies,Monitor,October,9,43559,15,392031,13705.54,Small Business,Net Banking
+ORD1163,2026-06-12,North,Accessories,Office Chair,January,13,39575,10,514475,85134.34,Corporate,Card
+ORD1164,2026-06-13,East,Accessories,Printer,July,7,24924,20,174468,12581.36,Corporate,Cash
+ORD1165,2026-06-14,West,Furniture,Desk,December,11,24405,5,268455,66721.9,Corporate,Cash
+ORD1166,2026-06-15,East,Electronics,Monitor,November,5,39847,15,199235,30911.22,Small Business,Net Banking
+ORD1167,2026-06-16,North,Electronics,Monitor,February,7,35315,10,247205,12632.31,Individual,Card
+ORD1168,2026-06-17,East,Office Supplies,Office Chair,June,14,20317,0,284438,68959.54,Small Business,UPI
+ORD1169,2026-06-18,South,Furniture,Notebook,December,11,14227,0,156497,26532.29,Small Business,Net Banking
+ORD1170,2026-06-19,West,Office Supplies,Notebook,June,6,8039,15,48234,5072.02,Small Business,Card
+ORD1171,2026-06-20,West,Accessories,Office Chair,June,5,45138,20,225690,21681.45,Small Business,Cash
+ORD1172,2026-06-21,East,Accessories,Webcam,November,9,24773,20,222957,10415.79,Corporate,UPI
+ORD1173,2026-06-22,South,Accessories,Desk,March,9,12945,20,116505,6664.74,Corporate,UPI
+ORD1174,2026-06-23,West,Office Supplies,Webcam,January,13,38607,20,501891,18540.68,Individual,Cash
+ORD1175,2026-06-24,North,Furniture,Laptop,March,6,14283,10,85698,18560.66,Corporate,UPI
+ORD1176,2026-06-25,West,Accessories,Tablet,May,9,26491,20,238419,4291.59,Small Business,Cash
+ORD1177,2026-06-26,North,Accessories,Tablet,March,8,25470,0,203760,23034.25,Corporate,Net Banking
+ORD1178,2026-06-27,North,Electronics,Keyboard,March,10,12890,15,128900,7870.66,Individual,Net Banking
+ORD1179,2026-06-28,North,Accessories,Notebook,April,12,33822,0,405864,58487.54,Small Business,Net Banking
+ORD1180,2026-06-29,East,Furniture,Webcam,October,10,25204,5,252040,14487.14,Corporate,Net Banking
+ORD1181,2026-06-30,West,Furniture,Office Chair,November,15,5867,0,88005,21041.82,Individual,Cash
+ORD1182,2026-07-01,West,Office Supplies,Printer,December,3,15927,0,47781,8131.04,Individual,UPI
+ORD1183,2026-07-02,South,Electronics,Tablet,August,9,37305,10,335745,79167.49,Individual,Card
+ORD1184,2026-07-03,West,Electronics,Smartphone,August,6,29070,10,174420,28812.45,Individual,Net Banking
+ORD1185,2026-07-04,North,Office Supplies,Webcam,August,14,12158,10,170212,16466.75,Individual,Cash
+ORD1186,2026-07-05,South,Furniture,Smartphone,September,15,46988,20,704820,15975.64,Individual,UPI
+ORD1187,2026-07-06,East,Accessories,Smartphone,August,3,25751,0,77253,17129.53,Corporate,Card
+ORD1188,2026-07-07,East,Office Supplies,Desk,January,11,30849,15,339339,66765.76,Individual,Net Banking
+ORD1189,2026-07-08,West,Electronics,Tablet,March,14,42241,10,591374,27711.3,Individual,Card
+ORD1190,2026-07-09,East,Office Supplies,Pen Set,January,5,13158,0,65790,10730.7,Small Business,Net Banking
+ORD1191,2026-07-10,North,Office Supplies,Monitor,November,12,13478,5,161736,43245.0,Small Business,Card
+ORD1192,2026-07-11,South,Electronics,Office Chair,June,14,20716,5,290024,47063.19,Small Business,Card
+ORD1193,2026-07-12,North,Office Supplies,Monitor,August,10,6623,10,66230,15709.74,Small Business,Net Banking
+ORD1194,2026-07-13,North,Office Supplies,Office Chair,July,12,49148,5,589776,139995.59,Individual,UPI
+ORD1195,2026-07-14,North,Office Supplies,Tablet,July,3,45748,10,137244,26359.1,Corporate,UPI
+ORD1196,2026-07-15,East,Furniture,Monitor,June,7,43179,20,302253,26119.38,Small Business,Net Banking
+ORD1197,2026-07-16,West,Furniture,Desk,May,12,27791,10,333492,22193.23,Small Business,UPI
+ORD1198,2026-07-17,South,Office Supplies,Keyboard,December,14,27822,10,389508,51158.16,Corporate,Net Banking
+ORD1199,2026-07-18,West,Electronics,Laptop,April,1,44290,20,44290,6249.44,Individual,Cash
+ORD1200,2026-07-19,South,Furniture,Keyboard,April,13,13093,0,170209,18580.54,Corporate,Net Banking
+ORD1201,2026-07-20,South,Office Supplies,Headphones,July,12,48488,0,581856,104686.05,Individual,Cash
+ORD1202,2026-07-21,South,Accessories,Smartphone,May,9,30123,5,271107,14215.07,Small Business,Cash
+ORD1203,2026-07-22,East,Furniture,Printer,September,4,6578,5,26312,3222.03,Corporate,Card
+ORD1204,2026-07-23,North,Furniture,Printer,February,8,42979,0,343832,77788.76,Corporate,Net Banking
+ORD1205,2026-07-24,West,Furniture,Laptop,January,3,25425,10,76275,14253.0,Small Business,Card
+ORD1206,2026-07-25,North,Furniture,Laptop,April,5,13851,0,69255,11680.89,Individual,Cash
+ORD1207,2026-07-26,West,Accessories,Monitor,October,7,26346,10,184422,40738.57,Individual,UPI
+ORD1208,2026-07-27,South,Office Supplies,Pen Set,June,12,49987,10,599844,26861.36,Individual,Cash
+ORD1209,2026-07-28,South,Office Supplies,Printer,April,8,16704,5,133632,24501.88,Corporate,Net Banking
+ORD1210,2026-07-29,North,Furniture,Smartphone,June,10,16453,20,164530,34128.19,Individual,Cash
+ORD1211,2026-07-30,West,Office Supplies,Laptop,February,10,5518,15,55180,8500.7,Individual,Net Banking
+ORD1212,2026-07-31,North,Electronics,Keyboard,May,15,11584,10,173760,43989.79,Small Business,UPI
+ORD1213,2026-08-01,East,Office Supplies,Pen Set,June,9,41540,0,373860,95760.19,Corporate,Net Banking
+ORD1214,2026-08-02,South,Electronics,Monitor,January,9,47880,10,430920,73474.95,Corporate,Net Banking
+ORD1215,2026-08-03,South,Accessories,Notebook,June,5,33298,0,166490,22944.15,Individual,Card
+ORD1216,2026-08-04,East,Office Supplies,Headphones,October,9,4496,20,40464,999.3,Individual,UPI
+ORD1217,2026-08-05,South,Accessories,Smartphone,January,1,31772,10,31772,3937.4,Small Business,Cash
+ORD1218,2026-08-06,North,Accessories,Laptop,July,3,4840,15,14520,368.98,Small Business,Net Banking
+ORD1219,2026-08-07,South,Office Supplies,Keyboard,November,15,3201,10,48015,4253.23,Corporate,UPI
+ORD1220,2026-08-08,North,Accessories,Printer,February,10,4819,5,48190,3018.75,Small Business,Cash
+ORD1221,2026-08-09,West,Electronics,Keyboard,November,4,8159,0,32636,7933.84,Corporate,Card
+ORD1222,2026-08-10,North,Accessories,Notebook,January,14,23191,15,324674,10923.01,Corporate,Cash
+ORD1223,2026-08-11,North,Accessories,Monitor,May,4,31031,20,124124,1975.42,Individual,UPI
+ORD1224,2026-08-12,North,Accessories,Webcam,October,7,19239,5,134673,22907.08,Small Business,Net Banking
+ORD1225,2026-08-13,North,Furniture,Pen Set,March,10,6363,5,63630,15927.06,Small Business,Cash
+ORD1226,2026-08-14,West,Furniture,Pen Set,May,6,42011,20,252066,47703.9,Small Business,Cash
+ORD1227,2026-08-15,East,Accessories,Tablet,April,12,28256,15,339072,50710.37,Small Business,UPI
+ORD1228,2026-08-16,East,Office Supplies,Tablet,August,13,11697,0,152061,40519.23,Individual,Card
+ORD1229,2026-08-17,South,Office Supplies,Notebook,November,14,24115,5,337610,87171.64,Corporate,Cash
+ORD1230,2026-08-18,West,Office Supplies,Printer,June,12,37982,0,455784,66268.93,Individual,Net Banking
+ORD1231,2026-08-19,South,Furniture,Notebook,November,9,1140,20,10260,885.53,Small Business,Card
+ORD1232,2026-08-20,North,Furniture,Notebook,February,13,48033,10,624429,110131.72,Individual,UPI
+ORD1233,2026-08-21,West,Accessories,Headphones,February,13,15364,10,199732,18049.99,Small Business,Cash
+ORD1234,2026-08-22,West,Furniture,Tablet,November,6,44606,15,267636,59640.06,Corporate,Card
+ORD1235,2026-08-23,South,Furniture,Smartphone,July,6,44199,10,265194,21489.76,Corporate,Card
+ORD1236,2026-08-24,East,Electronics,Desk,October,3,2389,10,7167,1729.21,Corporate,Net Banking
+ORD1237,2026-08-25,West,Office Supplies,Printer,July,5,6603,0,33015,4465.64,Corporate,Card
+ORD1238,2026-08-26,East,Office Supplies,Notebook,October,1,3219,20,3219,122.9,Small Business,UPI
+ORD1239,2026-08-27,East,Office Supplies,Headphones,June,12,35515,10,426180,26189.52,Corporate,Card
+ORD1240,2026-08-28,North,Furniture,Tablet,November,15,30763,10,461445,104691.02,Small Business,Cash
+ORD1241,2026-08-29,East,Accessories,Monitor,November,5,20531,10,102655,14995.77,Individual,UPI
+ORD1242,2026-08-30,South,Electronics,Tablet,November,10,42526,20,425260,21429.08,Small Business,Net Banking
+ORD1243,2026-08-31,East,Office Supplies,Desk,July,10,43312,5,433120,77845.33,Small Business,Net Banking
+ORD1244,2026-09-01,North,Electronics,Headphones,November,2,9746,5,19492,3710.98,Corporate,UPI
+ORD1245,2026-09-02,South,Office Supplies,Desk,August,1,33864,0,33864,4357.0,Small Business,Cash
+ORD1246,2026-09-03,East,Accessories,Pen Set,February,5,43628,20,218140,4208.52,Small Business,Cash
+ORD1247,2026-09-04,North,Furniture,Pen Set,November,6,41204,0,247224,15735.92,Individual,Card
+ORD1248,2026-09-05,North,Electronics,Laptop,May,15,12450,5,186750,41111.44,Small Business,UPI
+ORD1249,2026-09-06,South,Office Supplies,Smartphone,July,11,38855,10,427405,35351.69,Corporate,UPI
+ORD1250,2026-09-07,West,Accessories,Keyboard,April,13,16529,15,214877,11644.89,Individual,Cash
+ORD1251,2026-09-08,West,Furniture,Desk,December,9,33214,5,298926,33249.12,Individual,Card
+ORD1252,2026-09-09,West,Furniture,Webcam,June,15,43333,15,649995,141742.27,Small Business,Cash
+ORD1253,2026-09-10,East,Electronics,Office Chair,May,15,27003,10,405045,74410.67,Individual,Net Banking
+ORD1254,2026-09-11,South,Electronics,Smartphone,June,6,37088,0,222528,45007.52,Small Business,Cash
+ORD1255,2026-09-12,South,Furniture,Monitor,December,6,19107,15,114642,26252.49,Individual,UPI
+ORD1256,2026-09-13,South,Furniture,Pen Set,March,5,35268,5,176340,43585.54,Corporate,Card
+ORD1257,2026-09-14,West,Electronics,Desk,November,6,9531,15,57186,11443.58,Small Business,Cash
+ORD1258,2026-09-15,East,Office Supplies,Desk,February,12,19595,5,235140,39660.97,Individual,Card
+ORD1259,2026-09-16,North,Furniture,Webcam,July,15,21498,15,322470,72873.63,Corporate,UPI
+ORD1260,2026-09-17,South,Electronics,Tablet,June,1,31330,0,31330,6245.62,Small Business,Cash
+ORD1261,2026-09-18,West,Office Supplies,Office Chair,May,3,41638,15,124914,27378.84,Corporate,Card
+ORD1262,2026-09-19,East,Electronics,Printer,March,5,19571,0,97855,7597.68,Individual,Net Banking
+ORD1263,2026-09-20,North,Electronics,Pen Set,February,4,5206,20,20824,572.59,Small Business,UPI
+ORD1264,2026-09-21,East,Furniture,Keyboard,April,4,21925,0,87700,20587.2,Corporate,Card
+ORD1265,2026-09-22,South,Accessories,Keyboard,January,15,45931,0,688965,128053.51,Small Business,Net Banking
+ORD1266,2026-09-23,South,Accessories,Pen Set,February,6,49049,10,294294,16709.2,Corporate,UPI
+ORD1267,2026-09-24,South,Electronics,Printer,April,9,48616,5,437544,65715.04,Corporate,Net Banking
+ORD1268,2026-09-25,West,Furniture,Tablet,May,1,1116,0,1116,140.29,Small Business,Card
+ORD1269,2026-09-26,North,Furniture,Monitor,May,6,45459,10,272754,39954.74,Small Business,Cash
+ORD1270,2026-09-27,West,Accessories,Printer,October,7,22805,0,159635,30174.6,Individual,UPI
+ORD1271,2026-09-28,East,Furniture,Pen Set,February,13,15778,10,205114,38739.18,Corporate,Cash
+ORD1272,2026-09-29,South,Electronics,Webcam,October,12,22059,15,264708,50206.32,Corporate,Card
+ORD1273,2026-09-30,North,Electronics,Pen Set,October,12,11935,0,143220,20965.9,Corporate,Cash
+ORD1274,2026-10-01,West,Office Supplies,Smartphone,January,9,2832,0,25488,4266.96,Individual,Cash
+ORD1275,2026-10-02,West,Office Supplies,Notebook,April,4,41223,0,164892,29894.42,Small Business,UPI
+ORD1276,2026-10-03,North,Electronics,Webcam,April,15,20422,5,306330,70600.15,Small Business,Net Banking
+ORD1277,2026-10-04,West,Accessories,Smartphone,September,4,45311,20,181244,11780.53,Individual,UPI
+ORD1278,2026-10-05,North,Accessories,Office Chair,August,12,20195,5,242340,41174.86,Corporate,UPI
+ORD1279,2026-10-06,North,Office Supplies,Tablet,June,5,19818,0,99090,15617.71,Small Business,Net Banking
+ORD1280,2026-10-07,West,Furniture,Pen Set,December,3,10873,10,32619,3363.74,Small Business,Card
+ORD1281,2026-10-08,West,Electronics,Keyboard,December,10,32111,15,321110,9351.85,Individual,UPI
+ORD1282,2026-10-09,North,Accessories,Tablet,June,5,16367,0,81835,10698.73,Small Business,Net Banking
+ORD1283,2026-10-10,West,Accessories,Headphones,October,9,20796,10,187164,9213.05,Individual,Net Banking
+ORD1284,2026-10-11,West,Office Supplies,Printer,June,4,38921,5,155684,36881.52,Corporate,Card
+ORD1285,2026-10-12,East,Electronics,Webcam,November,7,6349,20,44443,1871.89,Individual,Net Banking
+ORD1286,2026-10-13,East,Electronics,Tablet,July,15,10932,20,163980,4425.46,Individual,Card
+ORD1287,2026-10-14,East,Electronics,Printer,April,15,24378,0,365670,81330.35,Corporate,Net Banking
+ORD1288,2026-10-15,North,Accessories,Tablet,April,6,44981,15,269886,34559.14,Individual,UPI
+ORD1289,2026-10-16,South,Furniture,Office Chair,February,12,41984,5,503808,32795.68,Corporate,Net Banking
+ORD1290,2026-10-17,South,Office Supplies,Webcam,June,12,41210,20,494520,34151.01,Individual,UPI
+ORD1291,2026-10-18,West,Furniture,Notebook,September,9,22822,5,205398,46163.59,Small Business,Net Banking
+ORD1292,2026-10-19,West,Electronics,Office Chair,June,15,7962,5,119430,8330.76,Corporate,Net Banking
+ORD1293,2026-10-20,East,Electronics,Monitor,August,1,5445,20,5445,663.33,Corporate,Card
+ORD1294,2026-10-21,North,Accessories,Headphones,August,5,13570,20,67850,1076.22,Small Business,Card
+ORD1295,2026-10-22,East,Furniture,Monitor,December,8,38874,0,310992,42724.78,Small Business,Net Banking
+ORD1296,2026-10-23,East,Office Supplies,Monitor,February,5,17798,15,88990,4789.87,Corporate,Cash
+ORD1297,2026-10-24,East,Furniture,Pen Set,April,6,333,15,1998,112.51,Individual,Card
+ORD1298,2026-10-25,South,Furniture,Keyboard,June,5,47974,10,239870,13814.6,Corporate,Net Banking
+ORD1299,2026-10-26,North,Office Supplies,Laptop,January,9,9083,20,81747,2468.39,Individual,Card
+ORD1300,2026-10-27,North,Office Supplies,Desk,October,10,11686,5,116860,7652.15,Corporate,Cash
+ORD1301,2026-10-28,South,Furniture,Laptop,September,15,31982,5,479730,68276.0,Small Business,Net Banking
+ORD1302,2026-10-29,South,Office Supplies,Printer,April,3,12721,0,38163,3271.61,Individual,Card
+ORD1303,2026-10-30,South,Furniture,Desk,July,3,44162,5,132486,31547.47,Individual,UPI
+ORD1304,2026-10-31,North,Electronics,Keyboard,June,4,48013,5,192052,32113.05,Small Business,Net Banking
+ORD1305,2026-11-01,West,Furniture,Desk,December,3,4125,5,12375,1322.22,Corporate,Cash
+ORD1306,2026-11-02,West,Office Supplies,Monitor,December,14,32270,20,451780,39992.82,Individual,UPI
+ORD1307,2026-11-03,North,Office Supplies,Laptop,February,10,30213,20,302130,8322.45,Small Business,UPI
+ORD1308,2026-11-04,South,Office Supplies,Smartphone,July,4,24630,20,98520,11973.09,Individual,UPI
+ORD1309,2026-11-05,West,Office Supplies,Webcam,August,9,49152,0,442368,61007.38,Corporate,UPI
+ORD1310,2026-11-06,North,Electronics,Office Chair,August,5,42811,5,214055,43261.77,Individual,Card
+ORD1311,2026-11-07,West,Furniture,Webcam,August,8,26242,0,209936,29029.68,Corporate,UPI
+ORD1312,2026-11-08,South,Furniture,Webcam,June,10,24618,5,246180,64598.74,Corporate,Net Banking
+ORD1313,2026-11-09,West,Furniture,Office Chair,October,14,18234,5,255276,65989.7,Small Business,Cash
+ORD1314,2026-11-10,South,Accessories,Monitor,March,11,9781,15,107591,19487.72,Individual,Cash
+ORD1315,2026-11-11,South,Furniture,Tablet,September,12,16997,15,203964,29851.86,Corporate,Card
+ORD1316,2026-11-12,East,Accessories,Headphones,March,15,1437,15,21555,1288.91,Individual,Cash
+ORD1317,2026-11-13,East,Furniture,Office Chair,December,7,9644,0,67508,5151.22,Corporate,Card
+ORD1318,2026-11-14,East,Electronics,Monitor,July,12,40203,0,482436,66329.36,Corporate,UPI
+ORD1319,2026-11-15,West,Electronics,Tablet,January,14,6625,5,92750,8918.89,Small Business,Cash
+ORD1320,2026-11-16,South,Accessories,Printer,August,6,18773,0,112638,27771.84,Individual,Cash
+ORD1321,2026-11-17,East,Furniture,Monitor,April,7,11933,15,83531,12877.54,Individual,UPI
+ORD1322,2026-11-18,East,Office Supplies,Keyboard,May,11,27865,15,306515,60065.86,Corporate,Cash
+ORD1323,2026-11-19,South,Electronics,Printer,August,8,37974,0,303792,26903.41,Small Business,Net Banking
+ORD1324,2026-11-20,West,Electronics,Webcam,May,2,2449,5,4898,450.39,Small Business,Card
+ORD1325,2026-11-21,West,Furniture,Tablet,December,8,46140,5,369120,37606.59,Individual,Card
+ORD1326,2026-11-22,West,Furniture,Printer,July,4,22569,5,90276,23030.89,Corporate,Cash
+ORD1327,2026-11-23,South,Electronics,Tablet,May,15,47061,5,705915,176688.87,Small Business,Cash
+ORD1328,2026-11-24,South,Furniture,Monitor,March,15,23168,10,347520,60383.91,Corporate,Card
+ORD1329,2026-11-25,South,Office Supplies,Desk,September,3,19475,10,58425,7129.79,Corporate,Net Banking
+ORD1330,2026-11-26,West,Furniture,Keyboard,December,11,29637,15,326007,25826.69,Individual,Card
+ORD1331,2026-11-27,South,Furniture,Notebook,May,4,28496,5,113984,12068.61,Corporate,Card
+ORD1332,2026-11-28,East,Electronics,Printer,October,14,21362,10,299068,24151.4,Corporate,Net Banking
+ORD1333,2026-11-29,East,Electronics,Office Chair,April,12,20918,5,251016,24565.96,Small Business,Net Banking
+ORD1334,2026-11-30,East,Electronics,Tablet,February,3,12851,5,38553,3694.21,Corporate,Net Banking
+ORD1335,2026-12-01,South,Electronics,Desk,July,13,10229,20,132977,17921.09,Small Business,Cash
+ORD1336,2026-12-02,North,Electronics,Headphones,July,14,12577,20,176078,15083.56,Corporate,UPI
+ORD1337,2026-12-03,East,Accessories,Notebook,June,9,43138,10,388242,47022.77,Small Business,UPI
+ORD1338,2026-12-04,North,Furniture,Notebook,August,10,22002,15,220020,7219.92,Small Business,Net Banking
+ORD1339,2026-12-05,South,Accessories,Tablet,August,2,30862,15,61724,6891.96,Corporate,Net Banking
+ORD1340,2026-12-06,North,Electronics,Pen Set,October,11,35165,0,386815,91677.37,Corporate,Net Banking
+ORD1341,2026-12-07,South,Electronics,Headphones,November,9,23785,0,214065,15633.41,Corporate,Card
+ORD1342,2026-12-08,West,Accessories,Printer,October,4,28096,20,112384,11484.94,Individual,Card
+ORD1343,2026-12-09,South,Furniture,Office Chair,December,1,25904,5,25904,3437.26,Corporate,UPI
+ORD1344,2026-12-10,North,Office Supplies,Smartphone,August,9,15589,20,140301,29916.77,Individual,Net Banking
+ORD1345,2026-12-11,South,Electronics,Laptop,May,4,18711,5,74844,10235.2,Corporate,UPI
+ORD1346,2026-12-12,North,Furniture,Printer,August,13,411,5,5343,1310.36,Small Business,Card
+ORD1347,2026-12-13,East,Accessories,Pen Set,November,11,37451,5,411961,97752.0,Small Business,UPI
+ORD1348,2026-12-14,West,Furniture,Keyboard,November,13,13253,10,172289,37311.87,Small Business,Cash
+ORD1349,2026-12-15,South,Office Supplies,Smartphone,April,14,6780,10,94920,19549.97,Small Business,Cash
+ORD1350,2026-12-16,East,Furniture,Laptop,February,9,43844,20,394596,14237.55,Small Business,Net Banking
+ORD1351,2026-12-17,East,Furniture,Pen Set,July,10,12685,0,126850,26654.31,Small Business,UPI
+ORD1352,2026-12-18,South,Electronics,Desk,October,7,12171,15,85197,18019.42,Corporate,Net Banking
+ORD1353,2026-12-19,West,Office Supplies,Notebook,December,8,10858,15,86864,5611.12,Individual,Card
+ORD1354,2026-12-20,East,Accessories,Monitor,March,7,12092,10,84644,20969.96,Corporate,Card
+ORD1355,2026-12-21,South,Accessories,Tablet,September,11,495,5,5445,1086.02,Small Business,Cash
+ORD1356,2026-12-22,North,Accessories,Tablet,November,13,39370,15,511810,77212.39,Individual,Card
+ORD1357,2026-12-23,South,Accessories,Smartphone,May,11,39929,10,439219,24478.63,Corporate,Cash
+ORD1358,2026-12-24,South,Office Supplies,Webcam,July,15,33497,10,502455,63786.95,Corporate,Card
+ORD1359,2026-12-25,South,Office Supplies,Pen Set,May,11,6320,15,69520,12065.99,Corporate,Net Banking
+ORD1360,2026-12-26,North,Office Supplies,Monitor,April,13,7554,10,98202,10316.87,Individual,Net Banking
+ORD1361,2026-12-27,West,Accessories,Pen Set,September,12,12952,0,155424,33012.51,Individual,Net Banking
+ORD1362,2026-12-28,East,Furniture,Notebook,December,7,9853,5,68971,7539.87,Individual,Cash
+ORD1363,2026-12-29,West,Office Supplies,Tablet,January,12,31992,15,383904,57423.76,Corporate,Card
+ORD1364,2026-12-30,North,Electronics,Keyboard,December,4,4627,5,18508,3375.06,Small Business,Card
+ORD1365,2026-12-31,East,Furniture,Tablet,August,15,39482,10,592230,54675.28,Corporate,Net Banking
+ORD1366,2027-01-01,North,Furniture,Desk,November,1,2365,20,2365,326.48,Individual,Card
+ORD1367,2027-01-02,East,Accessories,Laptop,December,15,45635,20,684525,115045.4,Small Business,Cash
+ORD1368,2027-01-03,North,Office Supplies,Pen Set,November,15,14057,20,210855,39234.94,Individual,Net Banking
+ORD1369,2027-01-04,West,Furniture,Headphones,January,7,35815,15,250705,40537.51,Small Business,Card
+ORD1370,2027-01-05,West,Accessories,Desk,May,12,47403,20,568836,55332.32,Small Business,Cash
+ORD1371,2027-01-06,North,Office Supplies,Monitor,July,12,25837,5,310044,15204.56,Small Business,Net Banking
+ORD1372,2027-01-07,North,Electronics,Notebook,August,2,9519,20,19038,360.45,Individual,UPI
+ORD1373,2027-01-08,North,Office Supplies,Printer,September,4,19241,15,76964,15107.3,Individual,UPI
+ORD1374,2027-01-09,East,Electronics,Tablet,September,6,2738,5,16428,2707.58,Small Business,Cash
+ORD1375,2027-01-10,East,Accessories,Webcam,October,5,13964,15,69820,15244.9,Individual,Cash
+ORD1376,2027-01-11,East,Furniture,Pen Set,November,6,41831,10,250986,49646.81,Corporate,Cash
+ORD1377,2027-01-12,North,Electronics,Webcam,September,5,28427,0,142135,36868.36,Individual,Card
+ORD1378,2027-01-13,West,Office Supplies,Monitor,January,2,37687,15,75374,15126.2,Corporate,UPI
+ORD1379,2027-01-14,North,Office Supplies,Keyboard,December,13,47214,20,613782,115793.46,Corporate,Card
+ORD1380,2027-01-15,West,Accessories,Desk,October,10,9852,20,98520,12634.3,Individual,Cash
+ORD1381,2027-01-16,South,Office Supplies,Webcam,April,15,17616,10,264240,14509.5,Corporate,Net Banking
+ORD1382,2027-01-17,East,Office Supplies,Notebook,May,8,3308,10,26464,5987.71,Small Business,UPI
+ORD1383,2027-01-18,South,Electronics,Office Chair,October,5,11505,15,57525,2759.76,Individual,Card
+ORD1384,2027-01-19,East,Electronics,Notebook,August,7,37142,5,259994,13519.73,Small Business,UPI
+ORD1385,2027-01-20,North,Electronics,Monitor,September,4,14635,20,58540,11715.23,Individual,Cash
+ORD1386,2027-01-21,East,Accessories,Printer,November,13,29734,20,386542,83210.91,Small Business,Cash
+ORD1387,2027-01-22,East,Office Supplies,Laptop,January,1,37085,0,37085,4103.37,Individual,Cash
+ORD1388,2027-01-23,South,Electronics,Monitor,September,10,49868,15,498680,37344.24,Individual,UPI
+ORD1389,2027-01-24,South,Furniture,Desk,July,6,38059,5,228354,28565.09,Small Business,Card
+ORD1390,2027-01-25,West,Furniture,Monitor,December,11,20016,5,220176,28947.14,Individual,UPI
+ORD1391,2027-01-26,East,Office Supplies,Laptop,June,6,32987,20,197922,34237.95,Individual,Card
+ORD1392,2027-01-27,North,Electronics,Headphones,October,8,39439,20,315512,15608.12,Individual,Net Banking
+ORD1393,2027-01-28,South,Office Supplies,Keyboard,June,15,28630,20,429450,9478.18,Corporate,Card
+ORD1394,2027-01-29,South,Office Supplies,Desk,August,8,20078,5,160624,32783.74,Small Business,Net Banking
+ORD1395,2027-01-30,East,Accessories,Monitor,February,1,21473,10,21473,806.63,Small Business,UPI
+ORD1396,2027-01-31,East,Electronics,Notebook,August,14,44364,15,621096,141681.83,Small Business,Cash
+ORD1397,2027-02-01,South,Electronics,Webcam,June,8,39339,20,314712,59067.27,Small Business,Cash
+ORD1398,2027-02-02,South,Office Supplies,Tablet,July,13,49078,0,638014,129524.88,Small Business,Card
+ORD1399,2027-02-03,South,Accessories,Headphones,July,11,17759,0,195349,45318.53,Corporate,Card
+ORD1400,2027-02-04,East,Office Supplies,Notebook,February,4,15936,5,63744,14215.49,Corporate,Card
+ORD1401,2027-02-05,North,Accessories,Tablet,July,1,15619,15,15619,3037.2,Corporate,Cash
+ORD1402,2027-02-06,East,Furniture,Webcam,September,5,8517,20,42585,7421.84,Corporate,Card
+ORD1403,2027-02-07,North,Furniture,Office Chair,February,15,31657,10,474855,20254.64,Small Business,Card
+ORD1404,2027-02-08,West,Electronics,Pen Set,June,8,27953,10,223624,47300.47,Small Business,UPI
+ORD1405,2027-02-09,South,Electronics,Pen Set,May,9,46440,15,417960,101289.32,Small Business,UPI
+ORD1406,2027-02-10,East,Accessories,Keyboard,November,8,13489,15,107912,17074.46,Small Business,Net Banking
+ORD1407,2027-02-11,South,Office Supplies,Headphones,January,3,35071,20,105213,11051.37,Individual,UPI
+ORD1408,2027-02-12,North,Furniture,Office Chair,September,1,39293,20,39293,6492.84,Corporate,UPI
+ORD1409,2027-02-13,East,Electronics,Notebook,April,3,26834,15,80502,15960.9,Individual,Net Banking
+ORD1410,2027-02-14,East,Electronics,Tablet,January,15,47494,0,712410,75086.04,Corporate,Net Banking
+ORD1411,2027-02-15,South,Office Supplies,Pen Set,March,1,46413,15,46413,10522.28,Individual,Cash
+ORD1412,2027-02-16,West,Electronics,Webcam,January,15,19770,0,296550,73180.27,Corporate,Cash
+ORD1413,2027-02-17,East,Electronics,Notebook,November,1,30316,20,30316,2636.1,Individual,Card
+ORD1414,2027-02-18,East,Accessories,Printer,August,3,37416,20,112248,20432.94,Corporate,Cash
+ORD1415,2027-02-19,West,Furniture,Desk,August,8,8671,5,69368,7340.47,Individual,UPI
+ORD1416,2027-02-20,East,Electronics,Desk,November,2,49502,0,99004,9595.03,Small Business,Net Banking
+ORD1417,2027-02-21,South,Furniture,Smartphone,August,6,24082,10,144492,22851.75,Small Business,UPI
+ORD1418,2027-02-22,West,Office Supplies,Smartphone,October,4,11261,20,45044,4025.38,Individual,Cash
+ORD1419,2027-02-23,North,Accessories,Tablet,April,10,44546,15,445460,88913.62,Small Business,Card
+ORD1420,2027-02-24,East,Electronics,Laptop,October,13,4674,5,60762,4062.71,Small Business,UPI
+ORD1421,2027-02-25,West,Furniture,Monitor,July,3,32459,0,97377,14650.8,Corporate,Net Banking
+ORD1422,2027-02-26,East,Electronics,Headphones,July,15,38110,5,571650,81617.82,Individual,Net Banking
+ORD1423,2027-02-27,South,Office Supplies,Keyboard,April,14,9024,10,126336,12281.41,Small Business,Card
+ORD1424,2027-02-28,East,Electronics,Office Chair,December,2,28524,20,57048,12152.53,Individual,Cash
+ORD1425,2027-03-01,South,Office Supplies,Tablet,April,3,8439,5,25317,6679.54,Small Business,Cash
+ORD1426,2027-03-02,East,Furniture,Smartphone,February,14,49088,20,687232,46671.03,Individual,Card
+ORD1427,2027-03-03,South,Office Supplies,Monitor,October,15,28985,15,434775,35866.99,Small Business,Card
+ORD1428,2027-03-04,North,Accessories,Tablet,February,10,46159,5,461590,72719.85,Individual,UPI
+ORD1429,2027-03-05,West,Electronics,Webcam,August,4,7010,5,28040,4405.73,Small Business,Net Banking
+ORD1430,2027-03-06,South,Accessories,Smartphone,July,11,39447,5,433917,107868.78,Corporate,Net Banking
+ORD1431,2027-03-07,East,Accessories,Smartphone,September,1,30188,20,30188,5863.2,Individual,UPI
+ORD1432,2027-03-08,South,Electronics,Webcam,May,7,18267,20,127869,5271.87,Corporate,Net Banking
+ORD1433,2027-03-09,West,Office Supplies,Webcam,December,15,4010,15,60150,13249.7,Individual,Card
+ORD1434,2027-03-10,North,Electronics,Notebook,June,8,40656,20,325248,9616.53,Individual,UPI
+ORD1435,2027-03-11,North,Office Supplies,Keyboard,January,13,47067,5,611871,128649.0,Individual,Cash
+ORD1436,2027-03-12,West,Electronics,Laptop,January,8,29391,5,235128,49130.36,Corporate,Card
+ORD1437,2027-03-13,West,Accessories,Laptop,January,6,14106,15,84636,6064.85,Individual,UPI
+ORD1438,2027-03-14,South,Electronics,Webcam,March,13,11709,0,152217,17700.75,Individual,UPI
+ORD1439,2027-03-15,North,Office Supplies,Monitor,February,1,9465,20,9465,703.72,Corporate,Net Banking
+ORD1440,2027-03-16,North,Office Supplies,Pen Set,September,4,20401,20,81604,13207.82,Individual,Cash
+ORD1441,2027-03-17,East,Accessories,Keyboard,January,6,47771,20,286626,64736.68,Individual,Card
+ORD1442,2027-03-18,West,Office Supplies,Webcam,December,10,8356,15,83560,12657.15,Individual,Net Banking
+ORD1443,2027-03-19,South,Furniture,Notebook,April,13,44982,10,584766,70835.98,Individual,UPI
+ORD1444,2027-03-20,East,Furniture,Tablet,April,4,31616,0,126464,31200.47,Corporate,Card
+ORD1445,2027-03-21,South,Furniture,Keyboard,March,12,19749,5,236988,26940.04,Individual,Cash
+ORD1446,2027-03-22,North,Office Supplies,Smartphone,January,15,14941,0,224115,23763.32,Corporate,Cash
+ORD1447,2027-03-23,South,Accessories,Headphones,August,5,35653,15,178265,26577.71,Individual,Net Banking
+ORD1448,2027-03-24,East,Furniture,Monitor,December,5,21215,5,106075,25987.26,Small Business,Card
+ORD1449,2027-03-25,South,Furniture,Smartphone,December,5,11633,5,58165,12911.13,Individual,UPI
+ORD1450,2027-03-26,South,Office Supplies,Monitor,September,12,13764,0,165168,25902.04,Corporate,Card
+ORD1451,2027-03-27,East,Furniture,Monitor,May,4,36508,5,146032,35151.63,Corporate,Net Banking
+ORD1452,2027-03-28,West,Furniture,Smartphone,December,5,36684,20,183420,6212.22,Small Business,Cash
+ORD1453,2027-03-29,West,Accessories,Webcam,May,9,29999,0,269991,72422.66,Small Business,Card
+ORD1454,2027-03-30,North,Accessories,Printer,September,2,23010,5,46020,2558.35,Individual,Net Banking
+ORD1455,2027-03-31,North,Office Supplies,Laptop,May,1,8726,0,8726,1687.26,Corporate,Card
+ORD1456,2027-04-01,West,Accessories,Tablet,August,5,31785,5,158925,13179.13,Small Business,UPI
+ORD1457,2027-04-02,West,Furniture,Notebook,May,1,8880,20,8880,1921.65,Individual,Cash
+ORD1458,2027-04-03,North,Electronics,Printer,January,11,41679,20,458469,80657.27,Small Business,Net Banking
+ORD1459,2027-04-04,North,Electronics,Webcam,April,7,33890,5,237230,59698.08,Small Business,UPI
+ORD1460,2027-04-05,East,Furniture,Keyboard,December,11,28265,20,310915,60999.79,Small Business,Net Banking
+ORD1461,2027-04-06,West,Accessories,Office Chair,December,1,12018,5,12018,1631.52,Small Business,Cash
+ORD1462,2027-04-07,North,Office Supplies,Printer,July,7,18103,10,126721,20667.96,Small Business,Cash
+ORD1463,2027-04-08,South,Office Supplies,Desk,December,10,31835,0,318350,52621.41,Corporate,Cash
+ORD1464,2027-04-09,East,Accessories,Keyboard,October,9,20956,5,188604,18127.59,Corporate,Cash
+ORD1465,2027-04-10,South,Accessories,Keyboard,April,13,26778,15,348114,47693.55,Corporate,Cash
+ORD1466,2027-04-11,East,Electronics,Headphones,April,14,824,20,11536,1880.35,Corporate,Cash
+ORD1467,2027-04-12,North,Accessories,Desk,May,12,37753,5,453036,37642.09,Corporate,Net Banking
+ORD1468,2027-04-13,South,Electronics,Notebook,March,3,33303,10,99909,7900.98,Individual,UPI
+ORD1469,2027-04-14,North,Office Supplies,Pen Set,July,7,21261,15,148827,32591.06,Corporate,Net Banking
+ORD1470,2027-04-15,North,Furniture,Office Chair,February,12,29476,10,353712,78073.04,Individual,UPI
+ORD1471,2027-04-16,East,Furniture,Keyboard,March,4,30406,15,121624,12619.2,Small Business,UPI
+ORD1472,2027-04-17,West,Electronics,Monitor,March,2,34198,0,68396,5652.38,Individual,Card
+ORD1473,2027-04-18,North,Office Supplies,Laptop,May,5,33989,0,169945,21221.53,Corporate,Cash
+ORD1474,2027-04-19,West,Accessories,Office Chair,November,3,28160,5,84480,8807.09,Corporate,Cash
+ORD1475,2027-04-20,North,Electronics,Webcam,September,12,40551,10,486612,81752.39,Individual,UPI
+ORD1476,2027-04-21,West,Electronics,Keyboard,June,7,26632,0,186424,29922.59,Individual,Card
+ORD1477,2027-04-22,North,Furniture,Office Chair,April,13,18550,20,241150,4299.68,Small Business,UPI
+ORD1478,2027-04-23,North,Accessories,Headphones,August,2,44565,0,89130,17654.91,Corporate,Card
+ORD1479,2027-04-24,West,Office Supplies,Pen Set,April,5,24648,5,123240,17939.42,Individual,Net Banking
+ORD1480,2027-04-25,East,Office Supplies,Tablet,March,4,25128,0,100512,9829.61,Individual,Net Banking
+ORD1481,2027-04-26,North,Accessories,Tablet,November,4,19404,10,77616,11158.23,Small Business,Cash
+ORD1482,2027-04-27,East,Furniture,Office Chair,October,7,16831,20,117817,3701.21,Individual,Card
+ORD1483,2027-04-28,North,Accessories,Keyboard,March,12,34028,10,408336,34924.0,Small Business,UPI
+ORD1484,2027-04-29,North,Office Supplies,Keyboard,May,8,43778,0,350224,80101.59,Individual,Net Banking
+ORD1485,2027-04-30,West,Office Supplies,Desk,June,13,49787,5,647231,59223.33,Small Business,Net Banking
+ORD1486,2027-05-01,South,Office Supplies,Keyboard,April,1,15810,20,15810,3179.58,Small Business,Card
+ORD1487,2027-05-02,North,Electronics,Keyboard,July,1,4039,20,4039,181.95,Individual,UPI
+ORD1488,2027-05-03,North,Office Supplies,Webcam,June,5,8836,0,44180,7189.51,Small Business,Net Banking
+ORD1489,2027-05-04,West,Electronics,Pen Set,May,10,1353,0,13530,3647.53,Individual,Cash
+ORD1490,2027-05-05,South,Accessories,Desk,June,9,19038,0,171342,15662.29,Corporate,Card
+ORD1491,2027-05-06,North,Office Supplies,Notebook,December,4,43503,0,174012,46622.51,Individual,Cash
+ORD1492,2027-05-07,South,Office Supplies,Notebook,April,10,1972,15,19720,3203.42,Corporate,Card
+ORD1493,2027-05-08,West,Accessories,Printer,June,2,7025,15,14050,1952.77,Corporate,Card
+ORD1494,2027-05-09,West,Office Supplies,Laptop,May,1,9738,20,9738,337.67,Individual,Card
+ORD1495,2027-05-10,West,Electronics,Laptop,January,10,27211,15,272110,53611.42,Small Business,Card
+ORD1496,2027-05-11,West,Furniture,Notebook,October,10,9246,5,92460,23653.18,Individual,Net Banking
+ORD1497,2027-05-12,South,Electronics,Smartphone,April,4,34109,5,136436,24811.74,Small Business,Card
+ORD1498,2027-05-13,East,Furniture,Smartphone,August,1,2327,5,2327,439.08,Corporate,Net Banking
+ORD1499,2027-05-14,South,Electronics,Desk,April,4,42387,10,169548,6249.86,Small Business,Card
+ORD1500,2027-05-15,East,Furniture,Notebook,April,2,36862,0,73724,16654.31,Small Business,UPI
